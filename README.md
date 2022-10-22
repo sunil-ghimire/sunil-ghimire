@@ -2,7 +2,7 @@
 
 ### A keen learner and economics enthusiast who loves pythoning the way.
 
-- 🔭 I’m currently working on Python, JS, Django and React.
+- 🔭 I’m currently working on Python, JS, Django and Odoo ERP.
 - 🌱 I’m currently learning Data Science.
 
 ### Connect with me:
